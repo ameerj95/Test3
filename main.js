@@ -8,3 +8,4 @@ if(!person["age"]){
 }
 
 console.log("change")
+console.log("new change")
