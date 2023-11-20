@@ -8,6 +8,7 @@ if(!person["age"]){
 }
 
 console.log("hello")
+console.log("goodbye")
 
 
 
